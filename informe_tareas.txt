@@ -1,0 +1,5 @@
+
+ Nombre: estudiar
+ Fecha limite: 14/02/2025
+ Categorias: estudio
+ Horas dedicadas: [8.0, 4.0, 3.0]
